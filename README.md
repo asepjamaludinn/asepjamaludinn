@@ -4,13 +4,7 @@
 
 ## 👋 Hi, I'm Asep!
 
-I'm a **5th-semester student** at **Telkom University**, majoring in **Telecommunication Engineering**, but my real passion lies in building things for the web.
-
-I love bringing ideas to life through clean code and thoughtful design. Whether it's crafting intuitive interfaces or solving logic on the backend, I enjoy being involved in the whole process.
-
-I'm always curious, always learning, and always looking for new challenges. For me, tech isn’t just what I study — it’s what I breathe.
-
----
+I'm a 5th-semester student at Telkom University, studying Telecommunication Engineering, but honestly, I’m most passionate about building things for the web. I love turning ideas into clean, functional websites, from designing smooth interfaces to figuring out the backend logic. I like being involved in every part of it. I’m always curious, always learning, and always up for a new challenge. Tech isn't just something I study, it's something I live and breathe.
 
 ---
 
