@@ -2,13 +2,15 @@
   <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-644.gif" alt="Sasuke GIF" />
 </p>
 
-## 👋 Hey there, I'm Asep!
+## 👋 Hi, I'm Asep!
 
-🎓 A curious mind from **Telkom University**, diving deep into the world of **Telecommunication Engineering**, and thriving in the digital playground as a **Web Developer**.
+I'm a **5th-semester student** at **Telkom University**, majoring in **Telecommunication Engineering**, but my real passion lies in building things for the web.
 
-💻 I enjoy transforming creative designs into modern, interactive, and fully responsive web applications. Clean code, smooth UX, and sleek UI are my playground.
+I love bringing ideas to life through clean code and thoughtful design. Whether it's crafting intuitive interfaces or solving logic on the backend, I enjoy being involved in the whole process.
 
-🌐 Beyond web dev, I'm on a journey exploring the synergy between **IoT**, **Machine Learning**, and web technologies — turning data and devices into smart, impactful solutions.
+I'm always curious, always learning, and always looking for new challenges. For me, tech isn’t just what I study — it’s what I breathe.
+
+---
 
 ---
 
@@ -113,8 +115,16 @@
 
 ### 📫 Let's Connect!
 
-- ✉️ Email: **asepjamaludinn@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/asepjamaludinn](https://linkedin.com/in/asepjamaludinn)
-- 🌐 Portfolio: [asepjamaludin.vercel.app](https://asepjamaludin.vercel.app)
+<div align="left">
+  <a href="https:linkedin.com/in/asepjamaludin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:asepjamaludinn24@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://instagram.com/_jmldnnn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
 
 ---
