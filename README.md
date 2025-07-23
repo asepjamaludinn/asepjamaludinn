@@ -1,8 +1,25 @@
+## 🧢 Yooo waattsappp brow! I'm Asep Jamaludin 🚀
+
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-644.gif" alt="Sasuke GIF" style="max-width: 100%; height: auto;" />
 </p>
 
-## 👋 Hi, I'm Asep Jamaludin!
+🧠 Mahasiswa Tel-U, jagoan ngoding dari Teknik Telekomunikasi!  
+🚀 Lagi ngulik: Next.js, Django, IoT, sampe AI!  
+🎯 Misi: Bikin aplikasi keren yang nyelesain masalah dunia nyata.
+
+🎬 Suka anime, film horror, dan ngopi sambil debug.  
+📸 Kadang nyari spot foto kece, kadang nyari bug di VSCode 😎
+
+---
+
+
+
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-644.gif" alt="Sasuke GIF" style="max-width: 100%; height: auto;" />
+</p>
+
+
 
 I'm a 5th-semester student at Telkom University, studying Telecommunication Engineering, but honestly, I’m most passionate about building things for the web. I love turning ideas into clean, functional websites, from designing smooth interfaces to figuring out the backend logic. I like being involved in every part of it. I’m always curious, always learning, and always up for a new challenge. Tech isn't just something I study, it's something I live and breathe.
 
