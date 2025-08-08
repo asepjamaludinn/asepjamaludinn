@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a 5th-semester student at Telkom University, studying Telecommunication Engineering, but honestly, I’m most passionate about building things for the web. I love turning ideas into clean, functional websites, from designing smooth interfaces to figuring out the backend logic. I like being involved in every part of it. I’m always curious, always learning, and always up for a new challenge. Tech isn't just something I study, it's something I live and breathe.
+I’m currently a 5th-semester Telecommunication Engineering student at Telkom University with a strong interest in web development. My academic journey gives me a unique perspective on how systems communicate and scale — which complements my passion for building clean, functional, and user-friendly websites. Whether it's designing modern UIs or structuring backend logic, I enjoy being involved in every stage of development. I’m constantly learning, exploring new tools, and challenging myself to grow as a developer. Tech isn’t just what I study — it’s what I live and build with.
 
 ---
 
