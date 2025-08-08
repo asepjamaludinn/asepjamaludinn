@@ -6,7 +6,7 @@
 
 </div>
 
-I’m currently a 5th-semester Telecommunication Engineering student at Telkom University with a strong interest in web development. My academic journey gives me a unique perspective on how systems communicate and scale — which complements my passion for building clean, functional, and user-friendly websites. Whether it's designing modern UIs or structuring backend logic, I enjoy being involved in every stage of development. I’m constantly learning, exploring new tools, and challenging myself to grow as a developer. Tech isn’t just what I study — it’s what I live and build with.
+I’m currently a 5th-semester Telecommunication Engineering student at Telkom University with a strong interest in web development. My academic journey gives me a unique perspective on how systems communicate and scale, which complements my passion for building clean, functional, and user-friendly websites. Whether it's designing modern UIs or structuring backend logic, I enjoy being involved in every stage of development. I’m constantly learning, exploring new tools, and challenging myself to grow as a developer. Tech isn’t just what I study; it’s what I live and build with.
 
 ---
 
@@ -85,3 +85,5 @@ I’m currently a 5th-semester Telecommunication Engineering student at Telkom U
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" />
   </a>
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=asepjamaludinn&color=blue)
