@@ -1,12 +1,8 @@
 <div align="center">
 
-## 🤙 Yooo waattsappp brow! I'm Asep Jamaludin 🚀
-
 <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-644.gif" alt="Sasuke GIF" style="max-width: 100%; height: auto;" />
 
 </div>
-
-I’m currently a 5th-semester Telecommunication Engineering student at Telkom University with a strong interest in web development. My academic journey gives me a unique perspective on how systems communicate and scale, which complements my passion for building clean, functional, and user-friendly websites. Whether it's designing modern UIs or structuring backend logic, I enjoy being involved in every stage of development. I’m constantly learning, exploring new tools, and challenging myself to grow as a developer. Tech isn’t just what I study; it’s what I live and build with.
 
 ---
 
